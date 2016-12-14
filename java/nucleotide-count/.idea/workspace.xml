@@ -32,21 +32,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NucleotideTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NucleotideTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/NucleotideTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="23">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DNA.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DNA.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DNA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="218">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -373,8 +375,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/DNA.java" />
         <option value="$PROJECT_DIR$/src/test/java/NucleotideTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DNA.java" />
       </list>
     </option>
   </component>
@@ -740,26 +742,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NucleotideTest - 2016.12.14 at 16h 23m 03s.xml">
+    <history-entry file="NucleotideTest - 2016.12.14 at 16h 31m 03s.xml">
       <configuration name="NucleotideTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NucleotideTest - 2016.12.14 at 16h 23m 18s.xml">
+    <history-entry file="NucleotideTest - 2016.12.14 at 16h 50m 33s.xml">
       <configuration name="NucleotideTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NucleotideTest_testEmptyDnaStringHasNoAdenosine - 2016.12.14 at 15h 41m 59s.xml">
-      <configuration name="NucleotideTest.testEmptyDnaStringHasNoAdenosine" configurationId="JUnit" />
+    <history-entry file="NucleotideTest - 2016.12.14 at 16h 51m 42s.xml">
+      <configuration name="NucleotideTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NucleotideTest_testEmptyDnaStringHasNoAdenosine - 2016.12.14 at 16h 06m 28s.xml">
-      <configuration name="NucleotideTest.testEmptyDnaStringHasNoAdenosine" configurationId="JUnit" />
+    <history-entry file="NucleotideTest - 2016.12.14 at 16h 54m 14s.xml">
+      <configuration name="NucleotideTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NucleotideTest_testEmptyDnaStringHasNoAdenosine - 2016.12.14 at 16h 21m 09s.xml">
-      <configuration name="NucleotideTest.testEmptyDnaStringHasNoAdenosine" configurationId="JUnit" />
+    <history-entry file="NucleotideTest - 2016.12.14 at 16h 55m 21s.xml">
+      <configuration name="NucleotideTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NucleotideTest_testEmptyDnaStringHasNoAdenosine - 2016.12.14 at 16h 21m 50s.xml">
-      <configuration name="NucleotideTest.testEmptyDnaStringHasNoAdenosine" configurationId="JUnit" />
+    <history-entry file="NucleotideTest - 2016.12.14 at 16h 56m 58s.xml">
+      <configuration name="NucleotideTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NucleotideTest_testEmptyDnaStringHasNoAdenosine - 2016.12.14 at 16h 22m 38s.xml">
-      <configuration name="NucleotideTest.testEmptyDnaStringHasNoAdenosine" configurationId="JUnit" />
+    <history-entry file="NucleotideTest - 2016.12.14 at 17h 03m 11s.xml">
+      <configuration name="NucleotideTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NucleotideTest - 2016.12.14 at 17h 03m 49s.xml">
+      <configuration name="NucleotideTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NucleotideTest - 2016.12.14 at 17h 04m 25s.xml">
+      <configuration name="NucleotideTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NucleotideTest - 2016.12.14 at 17h 06m 33s.xml">
+      <configuration name="NucleotideTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -785,7 +796,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -818,18 +829,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/DNA.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/NucleotideTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="23">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NucleotideTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DNA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        <state relative-caret-position="218">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding />
         </state>
       </provider>
