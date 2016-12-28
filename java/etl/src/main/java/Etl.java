@@ -13,7 +13,6 @@ public class Etl {
         output.put(key, value);
       }
     }
-
     return output;
   }
 
